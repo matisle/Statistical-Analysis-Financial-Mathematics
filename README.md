@@ -1,7 +1,7 @@
-Statistik Projekte Finanzmathematik
+Statistics Projecs Financial Mathematics
 ==============================
 
-This Repository contains two projects which were created during my work as a business mathematician at Wüstenrot and Württembegische Insurance.
+This Repository contains two projects which were created during my work as a Business Mathematician at Wüstenrot and Württembegische Insurance.
 
 **Project 1:** My main line of was the calculation of claims reserves. One estimates future cash flows from historic claims data. 
 In application, the so called Chain-Ladder-Method is used. The like-named folder conatins my script summarizing the derivation of the method, 
