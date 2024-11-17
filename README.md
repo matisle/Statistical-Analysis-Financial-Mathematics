@@ -4,7 +4,7 @@ Statistics Projecs Financial Mathematics
 This Repository contains two projects which were created during my work as a Business Mathematician at Wüstenrot and Württembegische Insurance.
 
 **Project 1:** My main line of was the calculation of claims reserves. One estimates future cash flows from historic claims data. 
-In application, the so called Chain-Ladder-Method is used. The like-named folder conatins my script summarizing the derivation of the method, 
+In application, the so called Chain-Ladder-Method is used. The like-named first folder conatins my script summarizing the derivation of the method, 
 together with statistical assumptions and viability testing of the model.
 
 **Project 2:** In the year 2023 Germany was hit with extraordinary inflation rates inflicting capital needs for claims reserves. The task was to calculate branch specific inflation rates. 
